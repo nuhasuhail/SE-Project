@@ -1,4 +1,4 @@
-# vision
+# VISION
 
 ***For*** individuals and organizations seeking to support underprivileged 
 ***who*** need a trustworthy and organized platform to manage donations, assess community needs and connect with people requiring assistance 
