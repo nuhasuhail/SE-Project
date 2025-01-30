@@ -51,7 +51,7 @@ for help.
 
 #
  ## Admins User Stories
-### Registration and Profile Management:
+#### Registration and Profile Management:
 - As an Admin,I want to approve or reject user registrations, so that only verified users can
 access the platform.
 - As an Admin,I want to register volunteers and assign them specific roles, so that they can assist
@@ -62,7 +62,7 @@ the platform.
 manage the user database efficiently.
 - As an Admin, I want to ensure duplicate registrations are flagged, so that resources are
 distributed fairly.
-### Request Management:
+#### Request Management:
 - As an Admin,I want to review and approve or reject help requests, so that only valid requests
 are fulfilled.
 - As an Admin, I want to prioritize requests based on urgency and need, so that the most critical
@@ -70,7 +70,7 @@ cases are addressed first.
 - As an Admin, I want to assign volunteers to specific requests, so that users receive the help
 they need efficiently.
 - As an Admin, I want to track the status of each request, so that I can ensure timely resolution.
-### Resource Management:
+#### Resource Management:
 - As an Admin, I want to add and manage available resources (money, food, medical supplies,
 clothing), so that I can allocate them to approved requests.
 - As an Admin, I want to track inventory levels, so that I know when resources are running low.
@@ -78,7 +78,7 @@ clothing), so that I can allocate them to approved requests.
 them promptly.
 - As an Admin,I want to generate reports on resource usage, so that I can monitor trends and
 plan future campaigns.
-### Communication and Notifications:
+#### Communication and Notifications:
 - As an Admin,I want to send notifications to users about the status of their requests, so that they
 stay informed.
 - As an Admin,I want to notify volunteers about new assignments, so that they can begin
@@ -87,7 +87,7 @@ coordinating assistance.
 issues or clarify details.
 - As an Admin,I want to send notifications about upcoming campaigns or events, so that users
 and donors are aware.
-### Analytics and Reporting
+#### Analytics and Reporting
 - As an Admin, I want to generate reports on approved and rejected requests, so that I can share
 insights with companies.
 - As an Admin, I want to generate reports on available resources , so that I can arrange
@@ -95,14 +95,15 @@ distribution campaigns with volunteers.
 - As an Admin,I want to monitor volunteer performance metrics, so that I can recognize and
 improve team efficiency.
 
+#
 ## Volunteers Feature List
 
-### **Registration**
+ **Registration**
 - Volunteer sign-up with name, contact details, skills, and availability.
 - Receive an email verification by admin.
 - View and update personal profile.
 
-### **Task Assignment and Management**
+ **Task Assignment and Management**
 - View tasks assigned by admins.
 - Accept or decline assigned tasks based on availability.
 - Access detailed task information.
@@ -110,41 +111,42 @@ improve team efficiency.
 - Sign up to participate in campaigns.
 - View details about campaign tasks and responsibilities.
 
-### **Communication and Coordination**
+ **Communication and Coordination**
 - Contact users to coordinate delivery of help.
 - Communicate with admins for task updates.
 - Receive notifications about new tasks.
 - Coordinate with other volunteers during events.
 
-### **Resource Distribution**
+ **Resource Distribution**
 - Request additional resources if required to complete tasks.
 - Update after delivering aid.
 
-### **Notifications**
+ **Notifications**
 - Receive notifications on:
   - New tasks assigned.
   - Updates to existing tasks.
   - Alerts about upcoming campaigns or events.
 
-### **Campaign and Event Participation**
+ **Campaign and Event Participation**
 - Sign up and participate in campaigns and community events.
 
+#
 ## Volunteers User Stories
 
-### **Registration and Profile Management**
+ **Registration and Profile Management**
 - As a Volunteer, I want to sign up by providing my name, contact details, skills, and availability, so that I can join the platform and start assisting.
 - As a new user, I want to register using Google credentials, so that the process isn’t complicated and time-consuming.
 - As a Volunteer, I want to stay signed in, so that I can receive notifications on my phone.
 - As a Volunteer, I want to update my profile details such as location and availability, so that I can receive notifications only when I’m available and nearby.
 - As a Volunteer, I want to set up days of availability, so that I receive tasks only when I’m available.
 
-### **Task Assignment and Management**
+ **Task Assignment and Management**
 - As a Volunteer, I want to view a list of tasks assigned to me in detail, so that I know what I need to do.
 - As a Volunteer, I want to accept or decline assigned tasks, so that I can manage my workload and availability.
 - As a Volunteer, I want to mark tasks as completed, so that the admins and users are updated.
 - As a Volunteer, I want to report any problem while completing a task, so that admins can provide assistance.
 
-### **Communication and Coordination**
+ **Communication and Coordination**
 - As a Volunteer, I want to contact users directly, so that I can coordinate the delivery of help.
 - As a Volunteer, I want to communicate with admins so that I can avoid misunderstandings.
 - As a Volunteer, I want to request assistance from another volunteer if needed, so that I can complete tasks that require more people.
@@ -155,27 +157,27 @@ improve team efficiency.
 - As a Volunteer, I want to receive reminders about pending tasks, so that I don’t miss any of them.
 - As a Volunteer, I want to receive acknowledgment or certificates of participation, so that my contributions are recognized.
 
----
-
-
+ 
+#
 ## Donors Feature List
 
-### **User Registration and Profile Management**
+ **User Registration and Profile Management**
 - Register donors through the platform with personal information (ID, name, address).
 - Ability to add and modify donation details (e.g., donation type: money, food, clothing, etc.).
 
-### **Donation Options**
+ **Donation Options**
 - Make cash donations (enter payment method recovery: bank card, PayPal, etc.).
 - Make in-kind donations (choose donation type: money, food, clothing, medical supplies, etc.).
 
-### **Needs Notifications**
+ **Needs Notifications**
 - Notifications when there is a specific need to receive shelters for those affected.
 
-### **Donation Tracking**
+ **Donation Tracking**
 - Follow the status of donations and updates on how they are used.
 - Share donations via social media.
 - Invite friends and family to contribute via the platform.
 
+#
 ## Donors User Stories
 
 - As a donor, I need to register my personal details (ID, name, phone, address) on the platform, so that I can easily contribute to the cause when I choose to donate.
@@ -185,22 +187,24 @@ improve team efficiency.
 - As a donor, I want to track the status of my donations, so that I can see how my contributions are helping those in need.
 - As a donor, I want to share my donations to encourage my friends to donate.
 
+#
 ## Affected People Feature List
 
-### **User Registration and Profile Management**
+ **User Registration and Profile Management**
 - Register affected people with personal information (ID, name, phone, address).
 
-### **Request for Help**
+ **Request for Help**
 - Send requests for help (money, food, clothing, medical supplies).
 - Ability to communicate with volunteers to coordinate the provision of help.
 - Follow up on requests (approved or not?) and updates on the provision of help.
 
-### **Notification of Available Help**
+ **Notification of Available Help**
 - Receive notifications when support (donations or volunteer services) is available nearby.
 
+#
 ## Affected People User Stories
 
-### **User Stories for Affected People**
+ **User Stories for Affected People**
 - As an affected person, I need to register my personal information (identity, name, phone, address) on the platform, so that I can be identified and supported effectively.
 - As an affected person, I need to specify my needs (food, clothing, or medical supplies), so that the platform can match me with appropriate donations or volunteers.
 - As an affected person, I want to establish contact with the volunteers assigned to help me, so that I can clarify my situation and receive appropriate assistance.
