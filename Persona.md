@@ -1,6 +1,6 @@
 
 # Persona
-![Volunteer Image](hispanic-woman-volunteer-smiling-dimples-person-female_53876-289231.avif)
+#### ![gettyimages-1437816897-612x612](https://github.com/user-attachments/assets/c8f2a24e-b805-43b2-a547-112e8b45de2d)
 
 ## Nuha Hamada
 
