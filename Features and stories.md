@@ -95,41 +95,117 @@ distribution campaigns with volunteers.
 - As an Admin,I want to monitor volunteer performance metrics, so that I can recognize and
 improve team efficiency.
 
+## Volunteers Feature List
 
-### Volunteers
+### **Registration**
+- Volunteer sign-up with name, contact details, skills, and availability.
+- Receive an email verification by admin.
+- View and update personal profile.
 
-#### Feature List
-- **Registration**
-  - Sign-up with name, contact details, and availability.
-  - View and update personal profile.
-- **Task Assignment and Management**
-  - View tasks assigned by admins.
-  - Accept or decline assigned tasks.
-  - Track assigned and completed tasks.
-  **Communication and Coordination**
-  - Contact users to coordinate delivery.
-  - Receive notifications about new tasks.
+### **Task Assignment and Management**
+- View tasks assigned by admins.
+- Accept or decline assigned tasks based on availability.
+- Access detailed task information.
+- Track assigned and completed tasks.
+- Sign up to participate in campaigns.
+- View details about campaign tasks and responsibilities.
 
-#### User Stories
+### **Communication and Coordination**
+- Contact users to coordinate delivery of help.
+- Communicate with admins for task updates.
+- Receive notifications about new tasks.
+- Coordinate with other volunteers during events.
 
+### **Resource Distribution**
+- Request additional resources if required to complete tasks.
+- Update after delivering aid.
 
-### Donors
+### **Notifications**
+- Receive notifications on:
+  - New tasks assigned.
+  - Updates to existing tasks.
+  - Alerts about upcoming campaigns or events.
 
-#### Feature List
-- **User Registration and Profile Management**
-  - Register donors through the platform.
-  - Modify donation details.
-- **Donation Options**
-  - Make cash donations.
-  - Make in-kind donations.
-- **Donation Tracking**
-  - Follow the status of donations.
-  - Share donations via social media.
+### **Campaign and Event Participation**
+- Sign up and participate in campaigns and community events.
 
-#### User Stories
-- As a donor, I want to register my personal details so that I can contribute easily.
-- As a donor, I want to choose or modify the type of donation I want to make.
+## Volunteers User Stories
+
+### **Registration and Profile Management**
+- As a Volunteer, I want to sign up by providing my name, contact details, skills, and availability, so that I can join the platform and start assisting.
+- As a new user, I want to register using Google credentials, so that the process isn’t complicated and time-consuming.
+- As a Volunteer, I want to stay signed in, so that I can receive notifications on my phone.
+- As a Volunteer, I want to update my profile details such as location and availability, so that I can receive notifications only when I’m available and nearby.
+- As a Volunteer, I want to set up days of availability, so that I receive tasks only when I’m available.
+
+### **Task Assignment and Management**
+- As a Volunteer, I want to view a list of tasks assigned to me in detail, so that I know what I need to do.
+- As a Volunteer, I want to accept or decline assigned tasks, so that I can manage my workload and availability.
+- As a Volunteer, I want to mark tasks as completed, so that the admins and users are updated.
+- As a Volunteer, I want to report any problem while completing a task, so that admins can provide assistance.
+
+### **Communication and Coordination**
+- As a Volunteer, I want to contact users directly, so that I can coordinate the delivery of help.
+- As a Volunteer, I want to communicate with admins so that I can avoid misunderstandings.
+- As a Volunteer, I want to request assistance from another volunteer if needed, so that I can complete tasks that require more people.
+- As a Volunteer, I want to receive feedback from users after completing tasks, so that I can improve my performance.
+- As a Volunteer, I want to request additional resources if needed, so that I can complete tasks efficiently.
+- As a Volunteer, I want to document the delivery of resources with photos or signatures, so that there is proof of fulfillment.
+- As a Volunteer, I want to see a dashboard with my pending and completed tasks, so that I can track my progress.
+- As a Volunteer, I want to receive reminders about pending tasks, so that I don’t miss any of them.
+- As a Volunteer, I want to receive acknowledgment or certificates of participation, so that my contributions are recognized.
 
 ---
 
-This Markdown file is a structured version of the Word document, keeping the original content intact.
+
+## Donors Feature List
+
+### **User Registration and Profile Management**
+- Register donors through the platform with personal information (ID, name, address).
+- Ability to add and modify donation details (e.g., donation type: money, food, clothing, etc.).
+
+### **Donation Options**
+- Make cash donations (enter payment method recovery: bank card, PayPal, etc.).
+- Make in-kind donations (choose donation type: money, food, clothing, medical supplies, etc.).
+
+### **Needs Notifications**
+- Notifications when there is a specific need to receive shelters for those affected.
+
+### **Donation Tracking**
+- Follow the status of donations and updates on how they are used.
+- Share donations via social media.
+- Invite friends and family to contribute via the platform.
+
+## Donors User Stories
+
+- As a donor, I need to register my personal details (ID, name, phone, address) on the platform, so that I can easily contribute to the cause when I choose to donate.
+- As a donor, I want to choose or modify the type of donation I want to make (cash, food, clothing, or medical supplies), so that I can contribute in a way that suits my preferences and the needs of the shelter.
+- As a donor, I want to have multiple payment options (such as credit card, PayPal, or bank transfer) for my donation, so that I can contribute in the way that is most convenient for me.
+- As a donor, I need to receive alerts when the shelter has specific needs, so that I can contribute the appropriate items or funds to support them.
+- As a donor, I want to track the status of my donations, so that I can see how my contributions are helping those in need.
+- As a donor, I want to share my donations to encourage my friends to donate.
+
+## Affected People Feature List
+
+### **User Registration and Profile Management**
+- Register affected people with personal information (ID, name, phone, address).
+
+### **Request for Help**
+- Send requests for help (money, food, clothing, medical supplies).
+- Ability to communicate with volunteers to coordinate the provision of help.
+- Follow up on requests (approved or not?) and updates on the provision of help.
+
+### **Notification of Available Help**
+- Receive notifications when support (donations or volunteer services) is available nearby.
+
+## Affected People User Stories
+
+### **User Stories for Affected People**
+- As an affected person, I need to register my personal information (identity, name, phone, address) on the platform, so that I can be identified and supported effectively.
+- As an affected person, I need to specify my needs (food, clothing, or medical supplies), so that the platform can match me with appropriate donations or volunteers.
+- As an affected person, I want to establish contact with the volunteers assigned to help me, so that I can clarify my situation and receive appropriate assistance.
+- As an affected person, I want to monitor the progress of my support requests, so that I can stay informed about when and how I will receive assistance.
+- As an affected person, I want to be notified when support (donations or volunteer services) is available in my area, so that I can access it as soon as possible to meet my needs.
+
+---
+ 
