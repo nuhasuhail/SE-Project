@@ -52,42 +52,7 @@ impact on social media. This ensures that both the food supplies and office furn
 reach the right beneficiaries effectively.
 
 #
-### Coordinator Scenario
-
-**Arwa** is a community outreach coordinator who has just received a large batch of
-clothes and toys for children. She needs to organize and distribute the items to families
-in need
-Arwa enters the donation details into the platform, tagging the items with categories
-(children’s clothing, toys, etc.). She then filters through the available recipients based on
-their specific needs and contacts the families directly through the platform.
-Arwa successfully delivers the items to the correct recipients, and she generates a
-report for the donor showing the direct impact of their contribution.
-Arwa has efficiently managed and distributed in-kind donations, ensuring recipients
-receive the appropriate items.
-Arwa works with a local shelter that needs specific items—winter clothing and hygiene
-kits. She uses the platform to make a public request for these items, hoping that donors
-will contribute what is most needed.
-Arwa logs into the platform, navigates to the "Request Donations" section, and creates
-a request specifying the types of goods needed. She adds the quantity, description, and
-urgency level. She then shares the request with the community, using the platform’s
-notification features to alert potential donors.
-The platform notifies several donors, and within a few days, she receives donations
-from multiple users offering winter clothing and hygiene kits, allowing her to fulfill the
-shelter's needs quickly.
-Arwa has successfully sourced the necessary items using the platform’s request
-feature, allowing the community to respond directly to specific needs.
-Arwa's shelter needs volunteers to help sort and distribute donations. She decides to
-use the platform to recruit volunteers for this task.
-Arwa posts a volunteer request on the platform, including the number of people needed,
-the task, and the dates. The platform notifies registered volunteers who match her
-requirements. She receives a list of interested volunteers and can directly message
-them to confirm their participation.
-The volunteers show up on the designated dates, and Arwa manages the event through
-the platform’s volunteer coordination tools. She can track hours volunteered and ensure
-the team is effectively working on the donations.
-Arwa successfully organizes a volunteer team through the platform to help distribute
-donations
-
+   
 #
 ### Donor Scenario
 
